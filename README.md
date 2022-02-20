@@ -1,6 +1,6 @@
 # Predicting-Flight-Ticket-Pricing-Using-Machine-Learning
 
-Web app - [flight-optimal-time-predictor](https://flight-optimal-time-predictor.herokuapp.com/)
+Web app - [flight-optimal-time-predictor](https://flight-optimal-price.herokuapp.com/)
 
 ![Python 3.9](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg)
 
@@ -85,7 +85,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 
-Web app - [flight-optimal-time-predictor](https://flight-optimal-time-predictor.herokuapp.com/)
+Web app - [flight-optimal-time-predictor](https://flight-optimal-price.herokuapp.com/)
 
 ![alt text](https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/cf1cbf0f03e7db892ed8fac916e31e01af149ab5/image/webapp3.PNG)
 
