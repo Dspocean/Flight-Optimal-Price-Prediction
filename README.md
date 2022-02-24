@@ -25,7 +25,7 @@ Beautiful Soup is a Python library for pulling data out of HTML and XML files. I
 
 ## Dataset
 
-Scrapped 6 month flight data from [Kayak.co.in](https://www.kayak.co.in/). This dataset contains all the flights in the month of January 2022 and June 2022. There are more than 12000 flights in the dataset. The features were manually chosen to do a primary flight price analysis. There are several other features available on their website.
+Scrapped 6 month flight data from [Kayak.co.in](https://www.kayak.co.in/). This dataset contains all the flights in the time period of January 2022 and June 2022. There are more than 12000 flights in the dataset. The features were manually chosen to do a primary flight price analysis. There are several other features available on their website.
 
 Feature scarpped : 
 
